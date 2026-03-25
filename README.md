@@ -1,19 +1,19 @@
-# 📊 Excel Veri Analizi ve Raporlama Projesi
+# 📊 Excel ile Satış Performans Analizi ve Raporlama
 
-Bu proje, **TNC Group** bünyesindeki Bilgi Teknolojileri stajımın **Veri Yönetimi Bitirme Çıktısı**'nı içermektedir.
+Bu depo, **TNC Group** bünyesinde gerçekleştirdiğim Bilgi Teknolojileri stajımın **Veri Yönetimi ve Analizi Bitirme Çıktısı**'nı içermektedir.
 
 ---
 
-## 📈 Proje Amacı
-Staj sürecinde edinilen ileri düzey Excel yetkinliklerini (Formüller, Pivot Tablolar, Veri Görselleştirme) kullanarak kurumsal bir veri setini analiz etmek ve raporlamak.
+## 📈 Proje Özeti: Kurumsal Veri Analizi
+Ham veri setlerinin işlenerek, karar vericiler için anlamlı raporlara dönüştürülmesi sürecini kapsamaktadır. Çalışma içerisinde satış verileri, bölge bazlı performanslar ve kategori analizleri işlenmiştir.
 
-## 🛠️ Teknik Yetkinlikler & Fonksiyonlar
-Dosya içerisinde uygulanan temel Excel disiplinleri:
-* **Veri Temizleme & Düzenleme:** Karmaşık veri setlerinin analize hazır hale getirilmesi.
-* **Pivot Tablolar (Özet Tablolar):** Verilerin farklı boyutlarda hızlıca özetlenmesi ve analiz edilmesi.
-* **Görselleştirme:** Veri trendlerini gösteren dinamik grafikler ve dashboard çalışmaları.
-* **Fonksiyonlar:** DÜŞEYARA (VLOOKUP), EĞER (IF) ve istatistiksel formüllerin etkin kullanımı.
+### 🛠️ Uygulanan Teknikler & Yetkinlikler
+* **Veri Mimarisi:** Ham verilerin (Veri sekmesi) analize uygun şekilde yapılandırılması ve temizlenmesi.
+* **Pivot Tablo Yönetimi:** Karmaşık verilerin özetlenerek 'Analiz' sekmesinde anlamlı tablolara dönüştürülmesi.
+* **Dinamik Raporlama:** Bölge ve kategori bazlı performans takibi.
+* **Fonksiyonel Analiz:** İleri düzey Excel formülleri ile verilerin tutarlılık kontrolü.
 
 ---
 **Hazırlayan:** İrfan Sercan Ergüzel  
-**Kurum:** TNC Group & Europäisches Bildungsinstitut
+**Kurum:** TNC Group & Europäisches Bildungsinstitut  
+**Staj Kapsamı:** Bilgi Teknolojileri (BT) Uygulamalı Eğitimleri
